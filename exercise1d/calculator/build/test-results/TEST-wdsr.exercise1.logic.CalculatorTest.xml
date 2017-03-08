@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="wdsr.exercise1.logic.CalculatorTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2017-03-08T18:27:27" hostname="Rafzz-Komputer" time="0.008">
+  <properties/>
+  <testcase name="testMin_shouldRaiseAnExceptionForNullArgument" classname="wdsr.exercise1.logic.CalculatorTest" time="0.003"/>
+  <testcase name="testMin_shouldRaiseAnExceptionForEmptyArgument" classname="wdsr.exercise1.logic.CalculatorTest" time="0.001"/>
+  <testcase name="testMax_shouldThrowExceptionWhenArgumentsEmpty" classname="wdsr.exercise1.logic.CalculatorTest" time="0.0"/>
+  <testcase name="testMax_shouldReturnOneValue" classname="wdsr.exercise1.logic.CalculatorTest" time="0.001"/>
+  <testcase name="testMax_shouldReturnTheMaxFromNegativeValues" classname="wdsr.exercise1.logic.CalculatorTest" time="0.0"/>
+  <testcase name="testMax_shouldThrowExceptionWhenVluesAreNull" classname="wdsr.exercise1.logic.CalculatorTest" time="0.0"/>
+  <testcase name="testMax_shouldReturnTheMaxFromPositiveValues" classname="wdsr.exercise1.logic.CalculatorTest" time="0.0"/>
+  <testcase name="testMin_shouldReturnTheSmallestOfAllValues" classname="wdsr.exercise1.logic.CalculatorTest" time="0.0"/>
+  <testcase name="testMin_shouldReturnTheOnlyValue" classname="wdsr.exercise1.logic.CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

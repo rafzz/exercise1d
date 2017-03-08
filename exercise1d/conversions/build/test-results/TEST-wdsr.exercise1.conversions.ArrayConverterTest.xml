@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="wdsr.exercise1.conversions.ArrayConverterTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-03-08T18:27:28" hostname="Rafzz-Komputer" time="0.009">
+  <properties/>
+  <testcase name="shouldThrowExceptionWhenValueNotInt" classname="wdsr.exercise1.conversions.ArrayConverterTest" time="0.007"/>
+  <testcase name="shouldReturnIntArray" classname="wdsr.exercise1.conversions.ArrayConverterTest" time="0.001"/>
+  <testcase name="shouldThrowExceptionWhenVluesAreNull" classname="wdsr.exercise1.conversions.ArrayConverterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
